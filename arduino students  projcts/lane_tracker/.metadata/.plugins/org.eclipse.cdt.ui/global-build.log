@@ -1,0 +1,6 @@
+11:45:59 **** Incremental Build of configuration Debug for project lan_tracker_2 ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[E:/03-ARMTools/SDK_Win_64/SDK_Win_64/jre/bin/server;E:/03-ARMTools/SDK_Win_64/SDK_Win_64/jre/bin;E:/03-ARMTools/SDK_Win_64/SDK_Win_64/jre/lib/amd64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\MinGW\bin;C:\Users\user\AppData\Local\Programs\Python\Python311;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;E:\03-ARMTools\SDK_Win_64\SDK_Win_64]
